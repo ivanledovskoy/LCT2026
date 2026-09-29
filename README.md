@@ -54,7 +54,7 @@ python3 uf2conv.py FW.uf2 -o FW.bin
 
 ![](images/verify.png)
 
-А такэе пароль в открытом виде по адресу **`0x10005500`**:
+А также пароль в открытом виде по адресу **`0x10005500`**:
 
 ![IDA THE_CODE](images/password.png)
 
